@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "mcmodule"]
 	path = mcmodule
-	url = https://github.com/cran/mcmodule
+	url = https://github.com/nataliaciria/mcmodule
